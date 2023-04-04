@@ -1,10 +1,8 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/105128267/210105653-4c10eefd-7150-4b0a-8d8a-4f9cdda36b06.png'/></div>
-
 <h2>About the project</h2>
 
-<p><b>RAOUFラウフ</b> E-Commerce website</p>
+<p>E-Commerce website</p>
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Demo</a>
+👉 Live Demo: <a href='https://e-commerce-lemon-ten.vercel.app/'>Demo</a>
 
 <h3>Build with:</h3>
 
