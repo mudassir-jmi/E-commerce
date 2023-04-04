@@ -4,7 +4,7 @@
 
 <p><b>RAOUFラウフ</b> E-Commerce website</p>
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Raouf Demo</a>
+👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Demo</a>
 
 <h3>Build with:</h3>
 

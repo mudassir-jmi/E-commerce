@@ -29,8 +29,9 @@
 }
 
 .logo-img {
-    width: 13rem;
+    width: 8rem;
     cursor: pointer;
+    background: white;
 }
 
 .nav-links {
