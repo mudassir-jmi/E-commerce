@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-<p><b>RAOUFラウフ</b> is an minimalistic eCommerce website that lifestyle enthusiasts can buy from.</p>
+<p><b>RAOUFラウフ</b> E-Commerce website</p>
 
 👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Raouf Demo</a>
 
@@ -20,6 +20,7 @@
 </div>
 
 <br><br>
+
 <h3 align='center'>Categories Page 👇</h3>
 
 <div align='center'>
@@ -39,7 +40,3 @@
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/105128267/213868718-6760d6de-9060-406f-816d-f9b317bb0e0c.png'/>
 </div>
-
-
-
-
